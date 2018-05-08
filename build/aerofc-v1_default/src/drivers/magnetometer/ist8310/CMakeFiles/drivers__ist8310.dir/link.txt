@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libdrivers__ist8310.a  CMakeFiles/drivers__ist8310.dir/ist8310.cpp.obj
+/usr/bin/arm-none-eabi-ranlib libdrivers__ist8310.a

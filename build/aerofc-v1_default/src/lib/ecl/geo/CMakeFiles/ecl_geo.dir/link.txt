@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libecl_geo.a  CMakeFiles/ecl_geo.dir/geo.cpp.obj
+/usr/bin/arm-none-eabi-ranlib libecl_geo.a

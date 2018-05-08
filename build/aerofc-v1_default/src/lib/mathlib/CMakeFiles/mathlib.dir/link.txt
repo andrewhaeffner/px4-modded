@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libmathlib.a  CMakeFiles/mathlib.dir/math/test/test.cpp.obj CMakeFiles/mathlib.dir/math/matrix_alg.cpp.obj CMakeFiles/mathlib.dir/math/filter/LowPassFilter2p.cpp.obj
+/usr/bin/arm-none-eabi-ranlib libmathlib.a

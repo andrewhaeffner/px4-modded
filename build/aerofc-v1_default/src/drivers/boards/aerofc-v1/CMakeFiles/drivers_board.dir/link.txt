@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libdrivers_board.a  CMakeFiles/drivers_board.dir/init.c.obj CMakeFiles/drivers_board.dir/led.c.obj CMakeFiles/drivers_board.dir/spi.c.obj CMakeFiles/drivers_board.dir/timer_config.c.obj
+/usr/bin/arm-none-eabi-ranlib libdrivers_board.a

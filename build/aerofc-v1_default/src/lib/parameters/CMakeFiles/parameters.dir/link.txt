@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libparameters.a  CMakeFiles/parameters.dir/param.c.obj CMakeFiles/parameters.dir/px4_parameters.c.obj
+/usr/bin/arm-none-eabi-ranlib libparameters.a

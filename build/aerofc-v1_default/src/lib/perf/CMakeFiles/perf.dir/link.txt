@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libperf.a  CMakeFiles/perf.dir/perf_counter.c.obj
+/usr/bin/arm-none-eabi-ranlib libperf.a

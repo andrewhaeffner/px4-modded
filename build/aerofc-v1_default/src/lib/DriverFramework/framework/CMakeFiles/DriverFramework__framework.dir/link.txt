@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libDriverFramework__framework.a  CMakeFiles/DriverFramework__framework.dir/px4/df_dummy.cpp.obj
+/usr/bin/arm-none-eabi-ranlib libDriverFramework__framework.a

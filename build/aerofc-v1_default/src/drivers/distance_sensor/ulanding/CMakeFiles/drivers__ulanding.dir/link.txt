@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libdrivers__ulanding.a  CMakeFiles/drivers__ulanding.dir/ulanding.cpp.obj
+/usr/bin/arm-none-eabi-ranlib libdrivers__ulanding.a

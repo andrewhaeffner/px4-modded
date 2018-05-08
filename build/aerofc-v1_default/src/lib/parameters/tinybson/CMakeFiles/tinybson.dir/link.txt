@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libtinybson.a  CMakeFiles/tinybson.dir/tinybson.c.obj
+/usr/bin/arm-none-eabi-ranlib libtinybson.a

@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libdrivers__sf1xx.a  CMakeFiles/drivers__sf1xx.dir/sf1xx.cpp.obj
+/usr/bin/arm-none-eabi-ranlib libdrivers__sf1xx.a

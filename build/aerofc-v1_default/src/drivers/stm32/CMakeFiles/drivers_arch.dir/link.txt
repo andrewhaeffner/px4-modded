@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libdrivers_arch.a  CMakeFiles/drivers_arch.dir/drv_hrt.c.obj CMakeFiles/drivers_arch.dir/drv_io_timer.c.obj CMakeFiles/drivers_arch.dir/drv_pwm_servo.c.obj CMakeFiles/drivers_arch.dir/drv_pwm_trigger.c.obj CMakeFiles/drivers_arch.dir/drv_input_capture.c.obj CMakeFiles/drivers_arch.dir/drv_led_pwm.cpp.obj
+/usr/bin/arm-none-eabi-ranlib libdrivers_arch.a

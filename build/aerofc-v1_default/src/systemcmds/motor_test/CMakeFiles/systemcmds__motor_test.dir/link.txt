@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libsystemcmds__motor_test.a  CMakeFiles/systemcmds__motor_test.dir/motor_test.c.obj
+/usr/bin/arm-none-eabi-ranlib libsystemcmds__motor_test.a

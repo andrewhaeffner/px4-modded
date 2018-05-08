@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libdrivers_boards_common.a  CMakeFiles/drivers_boards_common.dir/board_crashdump.c.obj CMakeFiles/drivers_boards_common.dir/board_dma_alloc.c.obj CMakeFiles/drivers_boards_common.dir/board_gpio_init.c.obj
+/usr/bin/arm-none-eabi-ranlib libdrivers_boards_common.a

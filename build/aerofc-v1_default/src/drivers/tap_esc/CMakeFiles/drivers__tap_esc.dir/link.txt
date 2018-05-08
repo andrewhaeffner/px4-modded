@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libdrivers__tap_esc.a  CMakeFiles/drivers__tap_esc.dir/tap_esc.cpp.obj CMakeFiles/drivers__tap_esc.dir/tap_esc_common.cpp.obj
+/usr/bin/arm-none-eabi-ranlib libdrivers__tap_esc.a

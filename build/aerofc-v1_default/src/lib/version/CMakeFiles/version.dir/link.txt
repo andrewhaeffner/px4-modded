@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libversion.a  CMakeFiles/version.dir/version.c.obj
+/usr/bin/arm-none-eabi-ranlib libversion.a

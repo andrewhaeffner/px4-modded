@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libpx4_layer.a  CMakeFiles/px4_layer.dir/px4_nuttx_tasks.c.obj CMakeFiles/px4_layer.dir/px4_nuttx_impl.cpp.obj
+/usr/bin/arm-none-eabi-ranlib libpx4_layer.a

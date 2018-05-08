@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libecl_tecs.a  CMakeFiles/ecl_tecs.dir/tecs.cpp.obj
+/usr/bin/arm-none-eabi-ranlib libecl_tecs.a

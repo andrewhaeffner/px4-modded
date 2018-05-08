@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/Documents/Firmware.1.8.0/src/lib/ecl/geo_lookup/geo_mag_declination.cpp
+stdint.h
+-
+geo_mag_declination.h
+/home/user/Documents/Firmware.1.8.0/src/lib/ecl/geo_lookup/geo_mag_declination.h
+
+/home/user/Documents/Firmware.1.8.0/src/lib/ecl/geo_lookup/geo_mag_declination.h
+
+NuttX/nuttx/include/arch/limits.h
+
+NuttX/nuttx/include/arch/types.h
+nuttx/config.h
+-
+
+NuttX/nuttx/include/limits.h
+nuttx/config.h
+-
+arch/limits.h
+-
+
+NuttX/nuttx/include/nuttx/compiler.h
+nuttx/config.h
+-
+
+NuttX/nuttx/include/nuttx/config.h
+
+NuttX/nuttx/include/stdint.h
+nuttx/config.h
+-
+arch/stdint.h
+-
+nuttx/compiler.h
+-
+arch/types.h
+-
+limits.h
+-
+

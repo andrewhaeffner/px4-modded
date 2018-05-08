@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libdrivers__aerofc_adc.a  CMakeFiles/drivers__aerofc_adc.dir/aerofc_adc.cpp.obj
+/usr/bin/arm-none-eabi-ranlib libdrivers__aerofc_adc.a

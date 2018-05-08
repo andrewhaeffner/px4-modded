@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libflashparams.a  CMakeFiles/flashparams.dir/flashfs.c.obj CMakeFiles/flashparams.dir/flashparams.c.obj
+/usr/bin/arm-none-eabi-ranlib libflashparams.a

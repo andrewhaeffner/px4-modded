@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libdrivers_boards_common_arch.a  CMakeFiles/drivers_boards_common_arch.dir/board_identity.c.obj CMakeFiles/drivers_boards_common_arch.dir/board_mcu_version.c.obj CMakeFiles/drivers_boards_common_arch.dir/board_reset.c.obj CMakeFiles/drivers_boards_common_arch.dir/board_hw_rev_ver.c.obj
+/usr/bin/arm-none-eabi-ranlib libdrivers_boards_common_arch.a

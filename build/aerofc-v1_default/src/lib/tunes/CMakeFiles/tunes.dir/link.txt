@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libtunes.a  CMakeFiles/tunes.dir/tunes.cpp.obj CMakeFiles/tunes.dir/default_tunes.cpp.obj
+/usr/bin/arm-none-eabi-ranlib libtunes.a
